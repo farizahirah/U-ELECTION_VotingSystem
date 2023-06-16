@@ -1,0 +1,2 @@
+Setup for email tutorial:
+https://medium.com/graymatrix/using-gmail-smtp-server-to-send-email-in-laravel-91c0800f9662
